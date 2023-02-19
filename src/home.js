@@ -22,7 +22,7 @@ export default function home () {
   let headlineImgDiv = document.createElement('div');
   headlineImgDiv.className = 'headline-img';
   let img = document.createElement('img');
-  img.src = `../src/images/vegetables-set-left-black-slate.jpg`;
+  img.src = `./images/vegetables-set-left-black-slate.jpg`;
   headlineImageDiv.appendChild(headlineDiv);
   headlineImgDiv.appendChild(img);
   headlineImageDiv.appendChild(headlineImgDiv);

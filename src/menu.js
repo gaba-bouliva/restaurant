@@ -20,37 +20,37 @@ export default function menu () {
       name: 'spicy food',
       description: 'description spicy food',
       price: '$8',
-      img: '../src/images/spicy-food-menu.jpg' 
+      img: './images/spicy-food-menu.jpg' 
     },
     {
       name: 'healthy food',
       description: 'description healhty food',
       price: '$10',
-      img: '../src/images/healthy-food-menu.jpg' 
+      img: './images/healthy-food-menu.jpg' 
     },
     {
       name: 'Fresh salad',
       description: 'description fresh salad food',
       price: '$13',
-      img: '../src/images/fresh-salad-menu.jpg' 
+      img: './images/fresh-salad-menu.jpg' 
     },
      {
       name: 'spicy food',
       description: 'description spicy food',
       price: '$8',
-      img: '../src/images/spicy-food-menu.jpg' 
+      img: './images/spicy-food-menu.jpg' 
     },
     {
       name: 'healthy food',
       description: 'description healhty food',
       price: '$10',
-      img: '../src/images/healthy-food-menu.jpg' 
+      img: './images/healthy-food-menu.jpg' 
     },
     {
       name: 'Fresh salad',
       description: 'description fresh salad food',
       price: '$13',
-      img: '../src/images/fresh-salad-menu.jpg' 
+      img: './images/fresh-salad-menu.jpg' 
     }
 
   ]
